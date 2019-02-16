@@ -27,9 +27,10 @@ for i in range(n) :
 print("Selesai")
 3).Berikut Flowchatnya:
 
-	![img]()
+	![img](https://github.com/dendy12/labpy3/blob/master/flow1.png)
 
-4).Berikut Screenshotnya:
+4).Berikut Screenshotnya: 
+	![img](https://github.com/dendy12/labpy3/blob/master/sot1.png)
 
 
 
@@ -63,10 +64,10 @@ while a!=0:
         
 print ('Nilai terbesarya adalah :',max)
 3).Berikut Flowchatnya:
+	![img](https://github.com/dendy12/labpy3/blob/master/flow2.png)
 
-
-
-
+4). berikut scrensotnya :
+	![img](https://github.com/dendy12/labpy3/blob/master/sot2.png)
 
 
 Program 1 (Program menghitung laba pengusaha)
@@ -98,5 +99,7 @@ for i in lb :
 
 print('Total laba yang didapat adalah      :', sum)
 3).Berikut Flowchatnya:
+	![img](https://github.com/dendy12/labpy3/blob/master/flow3.png)
 
-
+4). berikut scrensotnya:
+	![img](https://github.com/dendy12/labpy3/blob/master/sot3.png)
